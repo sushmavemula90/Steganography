@@ -1,3 +1,7 @@
+Original image:![mypic](https://github.com/user-attachments/assets/911e34b3-4401-4c6c-97d9-72c7757727de)
+
+Encrypted image:![encryptedImage](https://github.com/user-attachments/assets/965ba927-919c-4841-8906-598ba3528c64)
+
 # Secure Data Hiding in Images Using Steganography
 Secure Data hiding in images using stegnography
 ![image](https://github.com/user-attachments/assets/591e0d95-d6f6-4963-bea8-594cfffbd406)
