@@ -1,5 +1,5 @@
 # Secure Data Hiding in Images Using Steganography
-![image](https://github.com/user-attachments/assets/dac8fdd0-7330-41ee-a95c-e437db7622ae)
+![image](https://github.com/user-attachments/assets/57c983a7-877c-47e8-af11-4b305e1b8946)
 
 Secure Data hiding in images using stegnography
 ![image](https://github.com/user-attachments/assets/591e0d95-d6f6-4963-bea8-594cfffbd406)
